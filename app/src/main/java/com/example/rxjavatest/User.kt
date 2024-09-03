@@ -6,3 +6,9 @@ data class User(
     val username: String,
     val email: String
 )
+
+/*
+2.
+То, как именно будет выглядеть ответ.
+ -----> UserRepository
+ */
